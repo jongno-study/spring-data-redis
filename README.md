@@ -16,3 +16,6 @@
 ## Book
 
 - [ebook - Redis In Action](https://redislabs.com/community/ebook/)
+
+## Link
+- [Redis Gate](http://www.redisgate.com/redis/configuration/redis_conf.php)
